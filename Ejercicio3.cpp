@@ -95,8 +95,7 @@ int vect()
 
 int main()
 {
-      vect();
-      
+      vect();     
       
       system("pause > null");
       return 0;
