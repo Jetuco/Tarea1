@@ -41,8 +41,8 @@ int exponencial(int num1, int num2)
 
 int vect()
 {
-	int tam=0;
-	int vcon=0;
+    int tam=0;
+    int vcon=0;
     int x = 0;
     int conta = 0;
     int result = 0;
