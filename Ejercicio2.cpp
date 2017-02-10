@@ -41,7 +41,7 @@ int exponencial(int num1, int num2)
 
 int main()
 {
-      unsigned int numero1, numero2, resultado, aux;
+      unsigned int numero1, numero2, resultado;
       unsigned int contador = 0;
       
       printf ("Digite numero base: \n");
